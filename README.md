@@ -4,6 +4,12 @@ A Streamlit web application that classifies images as **Real** or **Fake** using
 
 The application lets users explore the dataset, review evaluation outputs, inspect sample predictions, and upload an image for classification.
 
+## Demo
+
+Watch the application demonstration:
+
+https://github.com/user-attachments/assets/b3e73751-1eb5-4d2f-a250-cc09fc999a8f
+
 ## Features
 
 - Upload a JPG, JPEG, or PNG image for deepfake classification.
